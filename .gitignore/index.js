@@ -24,7 +24,7 @@ bot.on('message', function (message) {
 	if (message.content === '!salut') {
 		message.channel.send({
 			files : [{
-				attachement: " orbot/.gitignore/ok.jpg  ",
+				attachement: " https://www.askingforwhatyouwant.com/wp-content/uploads/2015/09/nookay-e1512592369894.jpg  ",
 				name: "ok.jpg"
 			}]
 		})
